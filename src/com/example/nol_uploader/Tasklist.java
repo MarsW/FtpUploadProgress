@@ -183,12 +183,12 @@ public class Tasklist extends ListActivity {
 									}
 								}
 							}
-						});//onProgress
-					}//taskListener
+						});
+					}//onProgress
 					
-				}; //ViewHolder
+				}; //taskListener
 				
-			}
+			}//ViewHolder
 		}
 
 		@Override
